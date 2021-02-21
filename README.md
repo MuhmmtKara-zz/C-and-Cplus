@@ -1,2 +1,2 @@
 # C-and-Cplus
-This project can use for generate one million random number.
+This projects are made with c++ and c by me.
